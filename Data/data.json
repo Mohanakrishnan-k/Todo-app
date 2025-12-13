@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "code"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "gym"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "item": "water"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "item": "code"
+    }
+  ]
+}
