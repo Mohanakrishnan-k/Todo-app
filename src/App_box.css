@@ -22,6 +22,10 @@
     gap: 10px;
 }
 
+h2{
+    padding-bottom: 10px;
+}
+
 .input-add{
     width:100%;
     outline: none;

@@ -43,6 +43,7 @@ const App_box = () => {
 
   return (
     <div className='container'>
+      <h2>Todo App</h2>
           <div className='input-div' >
               <input 
               ref={inputRef}
